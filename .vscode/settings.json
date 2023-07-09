@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "operaciones.h": "c",
+        "stdio.h": "c",
+        "operacionespacientes.h": "c",
+        "persistenciapacientes.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
